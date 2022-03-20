@@ -3,4 +3,3 @@ git+git://github.com/giswqs/geemap.git
 pyparsing==2.4.7
 httplib2==0.19.1
 ffmpeg
-ffmpeg-python
