@@ -10,7 +10,6 @@ gdown
 ipynb-py-convert
 pycrs
 sankee
-future
 zipp
 traitlets
 six
@@ -21,7 +20,6 @@ wcwidth
 tornado
 pyzmq
 python-dateutil
-pyparsing
 pycparser
 pure-eval
 ptyprocess
@@ -82,7 +80,6 @@ google-auth
 argon2-cffi
 websocket-client
 notebook
-httplib2
 google-crc32c
 google-api-core
 anyio
@@ -125,21 +122,16 @@ ipytree
 ipyfilechooser
 fonttools
 filelock
-earthengine-api
 cycler
 branca
 whiteboxgui
-voila
-sankee
 python-box
 pyshp
-pycrs
 palettable
 owslib
 mss
 matplotlib
 jupyterlab
-ipynb-py-convert
 ipyleaflet
 ipyevents
 here-map-widget-for-jupyter
