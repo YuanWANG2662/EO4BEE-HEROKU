@@ -1,4 +1,4 @@
 voila
-git+git://github.com/YuanWANG2662/geemap.git
+git+https://github.com/YuanWANG2662/geemap.git
 pyparsing==2.4.7
 httplib2==0.19.1
