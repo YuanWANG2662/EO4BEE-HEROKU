@@ -3,7 +3,7 @@ voila
 pyparsing==2.4.7
 httplib2==0.19.1
 ffmpeg
-geemap
+geemap==0.11.8
 earthengine-api
 ee-extra
 gdown
