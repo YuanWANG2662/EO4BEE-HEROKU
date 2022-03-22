@@ -2,3 +2,4 @@ voila==0.3.0
 git+https://github.com/YuanWANG2662/geemap.git
 pyparsing==2.4.7
 httplib2==0.19.1
+ffmpeg
